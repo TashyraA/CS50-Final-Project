@@ -4,7 +4,7 @@
 
 *The climax of this course is its final project. I chose to create a web-based food caculator.*
 
-<img src="Screenshot (366).png" width="450px">
+<img src="Screenshot (366).png" width="600px">
 
 ### Description
   >Nutritions is a web app I created that shaws all nutritions (46 items in total) from food products someone's ate.
